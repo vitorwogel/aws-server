@@ -8,4 +8,5 @@
     <li>Clone the git repositoy to your machine</li>
     <li>Install dependencies with cli: npm i</li>
     <li>Run project using cli: npm start</li>
+    <li>Open browser on page http://localhost:8080/</li>
 </ol>
